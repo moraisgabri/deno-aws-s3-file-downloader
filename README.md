@@ -12,7 +12,7 @@ Now last and not least, please fill your environment variables. Follow the `.env
 
 ## Running
 
-Simply execute: `deno download.ts`
+Simply execute: `deno run download.ts`
 your files will be availeble in the folder `outputs.ts`
 
 Notice that before start downloading file the script will reset your `/output` folder
