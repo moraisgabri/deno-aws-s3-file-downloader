@@ -1,8 +1,6 @@
 # Deno AWS S3 File Downloader
 
-<p align="center">
 I needed to do a mass download of files from an s3 bucket, I took the opportunity to test Deno
-</p>
 
 ## Dependencies
 
